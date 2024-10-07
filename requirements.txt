@@ -1,0 +1,11 @@
+colorcet==3.1.0
+matplotlib==3.8.3
+mayavi==4.8.2
+numpy==2.1.1
+Pillow==10.4.0
+plotoptix==0.18.1
+scipy==1.14.1
+seaborn==0.13.2
+tifffile==2024.2.12
+torch==2.2.2+cu118
+vtk==9.3.0
